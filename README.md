@@ -24,7 +24,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | Assignment | 2   | Course Review                        | Sunday, September 07    | Sunday, September 14    |  7                 |
 | Project    | 1   | Fully Connected Neural Networks      | Sunday, August 31       | Sunday, September 21    | 21                 |
 | Quiz       | 1   | Assignments 1-2, Project 1           | Wednesday, September 24 | Wednesday, September 24 |  0                 |
-| Assignment | 3   | Course Review                        | Sunday, September 21    | Wednesday, September 28 |  7                 |
+| Assignment | 3   | Course Review                        | Sunday, September 21    | Sunday, September 28    |  7                 |
 | Assignment | 4   | Course Review                        | Sunday, October 05      | Sunday, October 12      |  7                 |
 | Project    | 2   | Convolutional Networks               | Sunday, September 21    | Wednesday, October 15   | 24                 |
 | Quiz       | 2   | Assignments 3-4, Project 2           | Sunday, October 19      | Sunday, October 19      |  0                 |

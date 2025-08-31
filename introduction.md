@@ -1,8 +1,8 @@
-# CS 294Y - 2024
+# CS225 - 2025
 Neural Network Design and Training Course @ KAUST
 
 
-Welcome to the CS 294Y - Neural Network Design and Training Course course! Throughout the course you will learn and implement various deep learning methods with their applications in visual computing. As mentioned in the prerequisites, we expect the students to be familiar with some basic machine learning concepts, linear algebra, multivariate calculus, probability and basic to intermediate programming skills.
+Welcome to the CS225 - Neural Network Design and Training Course course! Throughout the course you will learn and implement various deep learning methods with their applications in visual computing. As mentioned in the prerequisites, we expect the students to be familiar with some basic machine learning concepts, linear algebra, multivariate calculus, probability and basic to intermediate programming skills.
 
 ## Prerequisites
 

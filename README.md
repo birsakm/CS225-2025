@@ -14,7 +14,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | 1           | 2025-08-31    | 2025-09-21          | Aleksandar Cvejic  | Fully Connected Neural Networks                   | [Download](P1_XXX_YYY_CS225.ipynb) |
 | 2           | 2025-09-21    | 2025-10-15          | Fedor Rodionov     | Convolutional Networks                            | |
 | 3           | 2025-10-15    | 2025-11-09          | Jianqi Chen        | Transformer 1                                     | |
-| 4           | 2025-11-09    | 2025-12-03          | Ahmed Abdelreheem  | Dreambooth / LoRA                                 | |                    
+| 4           | 2025-11-12    | 2025-12-07          | Ahmed Abdelreheem  | Dreambooth / LoRA                                 | |                    
 
 # Full Course Time Schedule
 

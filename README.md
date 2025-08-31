@@ -35,8 +35,8 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | Assignment | 7   | Course Review                        | Sunday, November 09     | Sunday, November 16     |  7                 |
 | Assignment | 8   | Course Review                        | Sunday, November 16     | Sunday, November 23     |  7                 |
 | Assignment | 9   | Course Review                        | Sunday, November 30     | Sunday, December 07     |  7                 |
-| Project    | 4   | Dreambooth / LoRA                    | Sunday, November 09     | Wednesday, December 03  | 24                 |
-| Quiz       | 4   | Assignment 7-9, Project 4            | Sunday, December 07     | Sunday, December 07     |  0                 |
+| Project    | 4   | Dreambooth / LoRA                    | Sunday, November 12     | Sunday, December 07     | 24                 |
+| Quiz       | 4   | Assignment 7-9, Project 4            | Wednesday, December 10  | Wednesday, December 10  |  0                 |
 | Assignment | 10  | Course Review                        | Sunday, December 07     | Sunday, December 14     |  7                 |
 
 

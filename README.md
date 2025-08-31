@@ -27,7 +27,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | Assignment | 3   | Course Review                        | Sunday, September 21    | Sunday, September 28    |  7                 |
 | Assignment | 4   | Course Review                        | Sunday, October 05      | Sunday, October 12      |  7                 |
 | Project    | 2   | Convolutional Networks               | Sunday, September 21    | Wednesday, October 15   | 24                 |
-| Quiz       | 2   | Assignments 3-4, Project 2           | Sunday, October 19      | Sunday, October 19      |  0                 |
+| Quiz       | 2   | Assignments 3-4, Project 2           | Sunday, October 26      | Sunday, October 26      |  0                 |
 | Assignment | 5   | Course Review                        | Sunday, October 26      | Sunday, November 02     |  7                 |
 | Assignment | 6   | Course Review                        | Sunday, November 02     | Sunday, November 09     |  7                 |
 | Project    | 3   | Transformer (BERT)                   | Wednesday, October 15   | Sunday, November 09     | 25                 |

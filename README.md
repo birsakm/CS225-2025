@@ -38,6 +38,8 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | Project    | 4   | Dreambooth / LoRA                    | Sunday, November 12     | Sunday, December 07     | 24                 |
 | Quiz       | 4   | Assignment 7-9, Project 4            | Wednesday, December 10  | Wednesday, December 10  |  0                 |
 | Assignment | 10  | Course Review                        | Sunday, December 07     | Sunday, December 14     |  7                 |
+| Final Exam | 1   | Full Course Content                  | Tuesday, December 16, 04:30 p.m.                 ||  0                 |
+
 
 
 # Slack Channel

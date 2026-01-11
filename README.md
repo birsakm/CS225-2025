@@ -39,6 +39,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | Quiz       | 4   | Assignment 7-9, Project 4            | Wednesday, December 10  | Wednesday, December 10  |  0                 |
 | Assignment | 10  | Course Review                        | Sunday, December 07     | Sunday, December 14     |  7                 |
 | Final Exam | 1   | Full Course Content                  | Tuesday, December 16, 04:30 p.m.                 ||  0                 |
+| Makeup Final | 1   | Full Course Content                | Thursday, January 15, 03:00 p.m.                 ||  0                 |
 
 
 
